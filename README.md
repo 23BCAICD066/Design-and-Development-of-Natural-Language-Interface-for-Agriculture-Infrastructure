@@ -4,7 +4,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A lightweight, AI‑powered agricultural chatbot. Ask about crop cultivation, pest control, fertilizer, market prices, irrigation, or organic farming – using simple natural language. Available as **terminal CLI**, **web widget**, and **Streamlit app**.
+A lightweight, AI‑powered agricultural chatbot. Ask about crop cultivation, pest control, fertilizer, market prices, irrigation, or organic farming – using simple natural language. Available as **terminal CLI**, **web widget**, and **Streamlit app** .
 
 ![Agri Assistant Demo](docs/screenshot_main.png)
 *Replace with your actual screenshot.*
